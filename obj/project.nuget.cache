@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1IpGJPvXBL0dxGQ1iUhL/E4OOYXE0qbzCQUOcGBvWcuMkT85RClt4DT+IHE+zM5jhZFoAhpTCgTZw2d0RSzig==",
+  "dgSpecHash": "3rjmTxgVNAOoFHM/tVLh/6AXR8GKPMS1NhndhE6HalwqVqO4EsmRmDTivLkzI99BjfF7s68qHA5VejW5mJqHmw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Console_CompileApplication\\Console_CompileApplication.csproj",
+  "projectFilePath": "D:\\System-Config\\ProjectsConsole\\Console_CompileApplication\\Console_CompileApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

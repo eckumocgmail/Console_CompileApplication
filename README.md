@@ -1,4 +1,2 @@
-"# Console_DataXsd" 
-"# Console_DataXsd" 
-"# Console_DataXsd" 
-"# Console_DataXsd" 
+#Console_CompileApplication
+Выполняет бинамическую компиляцию кода c#.

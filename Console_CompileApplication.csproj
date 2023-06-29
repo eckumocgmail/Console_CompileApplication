@@ -3,7 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-	  <StartupObject>Program</StartupObject>
+	<StartupObject>Program</StartupObject>
+	  <OutDir>D:\System-Config\MyApplications\Console_CompileApplication</OutDir>
+
+	  <OutType>Dll</OutType>
   </PropertyGroup>
 
 </Project>
